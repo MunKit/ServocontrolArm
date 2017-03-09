@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServocontrolArm</string>
+    <string name="clockwise">clockwise</string>
+    <string name="Anticlockwise">Anticlockwise</string>
+    <string name = "hold">Hold</string>
+    <string name = "release">Release</string>
+    <string name="disconnected">Disconnected</string>
+    <string name = "Connect">Connect</string>
+</resources>
